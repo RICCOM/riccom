@@ -26,8 +26,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **Elixir**  
-- 💬 Ask me about **Python, NodeJS**  
+- 🌱 I’m currently learning **AI LLM**  
+- 💬 Ask me about **Python, NodeJS, Elixir**  
 - 📫 How to reach me **ericmunjuri@gmail.com**  
 - ⚡ Fun fact **I’m always curious and eager to learn.**
 
