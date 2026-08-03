@@ -27,9 +27,9 @@
 <br><br>
 
 - 🌱 I’m currently learning **AI LLM**  
-- 💬 Ask me about **Python, NodeJS, Elixir**  
+- 💬 Ask me about **Python, NodeJS**  
 - 📫 How to reach me **ericmunjuri@gmail.com**  
-- ⚡ Fun fact **I’m always curious and eager to learn.**
+- ⚡ Fun fact **I’m always eager and ready to learn.**
 
 <br>
 
